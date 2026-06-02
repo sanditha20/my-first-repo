@@ -5,4 +5,4 @@ created during the workshop.
 
 ## About me
 My name is **Sanditha**.
-Iam lerning Github.
+I am lerning Github.
